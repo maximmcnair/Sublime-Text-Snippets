@@ -1,0 +1,22 @@
+<snippet>
+    <content><![CDATA[
+${1:MyApp}.module("${2:MyModule}", function($2, $1){
+    // Private
+    // -------------------------
+
+    
+    // Public
+    // -------------------------
+
+
+    // Initializers
+    // -------------------------
+
+
+    
+})
+]]></content>
+    <tabTrigger>bmm</tabTrigger>
+    <scope>source.js,source.js.embedded.html</scope>
+    <description>Backbone.Marionette.Application.module skeleton</description>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+${1:MyView} = Backbone.Marionette.CollectionView.extend({
+  template: "#some-template"
+, $2
+})
+]]></content>
+    <tabTrigger>bmcv</tabTrigger>
+    <scope>source.js</scope>
+    <description>Backbone.Marionette CollectionView</description>
+</snippet>
