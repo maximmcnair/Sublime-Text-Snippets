@@ -1,1 +1,1 @@
-git clone into ~/Library/Application Support/Sublime Text 2/Packages/User/Snippets/
+git clone into ~/Library/Application Support/Sublime Text 2/Packages/User/
